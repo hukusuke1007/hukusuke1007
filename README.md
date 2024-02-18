@@ -10,3 +10,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hukusuke1007)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
