@@ -13,6 +13,6 @@
 
 # LAPRAS SCORE
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/Q3YRA4P" target="_blank" rel="noopener noreferrer"><img alt="Q3YRA4PのLAPRASでのスコアは次の通りです: エンジニアリング: 4.28 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 4.15 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.28&b=3.48&i=4.15&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 3/20/2024, 12:13:54 AM</p>
+<p ><a href="https://lapras.com/public/Q3YRA4P" target="_blank" rel="noopener noreferrer"><img alt="Q3YRA4PのLAPRASでのスコアは次の通りです: エンジニアリング: 4.29 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 4.15 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=4.29&b=3.48&i=4.15&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 3/21/2024, 12:15:18 AM</p>
 <!--END_SECTION:lapras-card-->
